@@ -1,0 +1,3 @@
+C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\USER\Documents\Unreal Projects\MyProject\Source\MyProject\Shape2.h
+C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\Shape2.generated.h

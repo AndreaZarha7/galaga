@@ -1,0 +1,29 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\BoxCollider.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectPawn.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectProjectile.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape2.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape3.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\ZICZACe2.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\BoxCollider.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectGameMode.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectPawn.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProjectProjectile.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape2.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Shape3.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\ZICZACe2.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\USER\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject-0002.lib"
